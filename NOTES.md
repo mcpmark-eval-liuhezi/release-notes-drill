@@ -1,3 +1,6 @@
 # Release notes
 
-Sprint 42 notes go here.
+## Sprint 42
+
+- drill repo staged
+- changelog added
